@@ -1,1 +1,3 @@
-sucursal,operating_date,day_name,closing_time,captured_time,week_number,pdv_txn_id,order_id,order_type,order_subtype,table_number,party_size,server,terminal,capture_terminal,action,item,modifier,group_type,group,description,is_modifier,quantity,unit_price,unit_price_with_mods,cost_actual,cost_with_mods,cost_ideal,discount,subtotal_ticket,iva_ticket,ieps_ticket,total_ticket,subtotal_item,iva_item,ieps_item,total_item,subtotal_cortesia_cancel,iva_cortesia_cancel,ieps_cortesia_cancel,total_cortesia_cancel,subtotal_anulacion,iva_anulacion,ieps_anulacion,total_anulacion,clave_platillo
+version https://git-lfs.github.com/spec/v1
+oid sha256:be9ca92033a121dd29f19ace887c6b4937a0bf23192b2390ee8b6b9f60ebc07a
+size 588
