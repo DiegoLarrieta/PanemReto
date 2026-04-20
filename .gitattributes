@@ -1,3 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/*.csv !filter !diff !merge text
  filter=lfs diff=lfs merge=lfs -text
 Borrador[[:space:]]complete[[:space:]]data.ipynb filter=lfs diff=lfs merge=lfs -text
