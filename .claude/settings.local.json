@@ -3,7 +3,8 @@
     "allow": [
       "Bash(wc -l /Users/diego/Documents/ChallengeAI/CleanData/branch_*.csv)",
       "Bash(python3:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(curl *)"
     ]
   }
 }
