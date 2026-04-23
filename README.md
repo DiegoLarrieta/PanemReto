@@ -1,5 +1,5 @@
 # Panem Cafeteria — Daily Sales Demand Forecasting
-# nacho no se la come 
+
 
 > Predict the top 5 food products sold per branch, per day, so each location can plan its daily stock in advance.
 
